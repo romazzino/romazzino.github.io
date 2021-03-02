@@ -14,7 +14,17 @@
       
       <guid>https://romazzino.github.io/projects/esk8/</guid>
       <description>topology optimization
-This is a frame design concept for an electric skateboard that has been topology optimized to reduce weight and improve stiffness while offering enough space internally to house the electrical components and battery. the plugin used was t0pos. inputs to the model are: applied forces, bearings and raw build volume. the concept behind this is cfd analysis and material removal where the stress is least. results are noticabely different depending on voxel size/resolution of the system, offering different design approaches to different problems.</description>
+This is a frame design concept for an electric skateboard that has been topology optimized to reduce weight and improve stiffness while offering enough space internally to house the electrical components and battery. The plugin used was t0pos. Inputs to the model are: applied forces, bearings and raw build volume. The concept behind this is cfd analysis and material removal where the stress is least. Results are noticeably different depending on voxel size/resolution of the system, offering different design approaches to different problems.</description>
+    </item>
+    
+    <item>
+      <title>expo_pavillion</title>
+      <link>https://romazzino.github.io/projects/pavillion/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romazzino.github.io/projects/pavillion/</guid>
+      <description>lightweight adaptive structure
+As part of a team we developed an adaptive structure pavillion. The structure is built out of prestressed elements to ensure the stability of the object. These elements can further be compressed by a string and pulley system to allow it to change its shape. This principle could be used i.e. to improve airflow in a tunnel system. My contribution to the project was the development and creation of 3d geometry, parametrization and simulation of the structure as well as the simulation and development of the movement.</description>
     </item>
     
     <item>
@@ -23,7 +33,7 @@ This is a frame design concept for an electric skateboard that has been topology
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/studio_two/</guid>
-      <description>This concept study represents a shell structure derived from the hexagonal arrangement of atoms in the mineral herbertsmithite. This geometry, transposed as support structure, offers advantages in terms of load-bearing capacity and enables building lighter structures.
+      <description>This case study represents a shell structure derived from the hexagonal arrangement of atoms in the mineral herbertsmithite. This geometry, transposed as support structure, offers advantages in terms of load-bearing capacity and enables building lighter structures.
 This system consists of two repetitive standardized parts, a triangle and an octahedron. These parts can be mass produced and kept in stock and easily be transported to the building site. These two elements are connected with one another through cnc-milled connection nodes.</description>
     </item>
     
@@ -33,7 +43,7 @@ This system consists of two repetitive standardized parts, a triangle and an oct
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/studio_one/</guid>
-      <description>The rombo system is a modular structure consisting of 3D-printed concrete shells that are easy to stack and transport. These elements are placed on site, steel reinforced and cast with in-situ concrete to form a solid beam grid. the advantages of this concept are quick building time, serialization and easy manufacturing of the elements in a factory as well as adaptability to size and shape of the project. The elements and the grid layout as well as the shape of the quadripartite columns are fully scripted.</description>
+      <description>The rombo system is a modular structure consisting of 3d printed concrete shells that are easy to stack, transport and assemble. These elements are placed on site, steel reinforced and cast with in-situ concrete to form a solid beam grid. The advantages of this concept are: reduction of construction time, serialization and easy manufacturing of the elements in a factory as well as adaptability to size and shape of the project.</description>
     </item>
     
     <item>
@@ -43,17 +53,7 @@ This system consists of two repetitive standardized parts, a triangle and an oct
       
       <guid>https://romazzino.github.io/projects/3d_print/</guid>
       <description>3dprint / digital fab
-digital fabrication has accompanied my work for a few years now. I have been in charge of the digital fabrication lab @ intitute of architecture and media. The experience gathered there lead me to prototype manufacturing. One example senn below is the cylinder head for a high performance motorbike engine. I am using digital fabrication including cnc-milling, lasercutting and 3d printing for many of my projects. Generating tool-paths for milling and printing with different materials like abs, pc, pva and composite metal filaments are things I am capable of.</description>
-    </item>
-    
-    <item>
-      <title>expo_pavillion</title>
-      <link>https://romazzino.github.io/projects/pavillion/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://romazzino.github.io/projects/pavillion/</guid>
-      <description>lightweight adaptive structure
-As part of a team of three we developed an adaptive structure pavillion. The structure is built out of prestressed elements to ensure the stability of the object. These elements can further be compressed by a string and pulley system to allow it to change its shape. This principle could be used i.e. for ventilation in tunnel systems. My contribution to the project was the development and creation of 3d_geometry, parametrization and simulation of the structure as well as the simulation and development of the movement.</description>
+Digital fabrication has accompanied my work for a few years now. I have been in charge of the digital fabrication lab @ the intitute of architecture and media. The experience gathered there lead me to prototype manufacturing. One example seen below is the cylinder head for a high performance motorbike engine. I am using digital fabrication including cnc-milling, lasercutting and 3d printing for many of my projects.</description>
     </item>
     
     <item>
@@ -62,8 +62,10 @@ As part of a team of three we developed an adaptive structure pavillion. The str
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/drone_mapping/</guid>
-      <description>One of my interersts is flying first-person-view drones and drone mapping of terrain and buildings for 3d reconstruction. The mapping is based on photogrammetry and not lidar based. I am used to work on big point clouds an meshes. My racing drones are built by myself although for mapping purposes commercial drones are used.
-mapping_mesh1 mapping_mesh2 flip_vid</description>
+      <description>One of my interests is flying first-person-view drones and drone mapping of terrain and buildings for 3d reconstruction. The mapping is based on photogrammetry and not lidar. I am used to working on big point clouds an meshes. My racing drones are built by myself, although for mapping purposes commercial drones are used.
+mapping_mesh1
+mapping_mesh2
+flip_vid</description>
     </item>
     
   </channel>
