@@ -8,24 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://romazzino.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://romazzino.github.io/about/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://romazzino.github.io/about/</guid>
+      <description>Hello, I am martin and this is a short information page about myself. I am currently preparing my masters thesis in architecture at the university of technology in graz, austria. I have been working as student assistent at the institute of architecture and media at TU-Graz. I&amp;rsquo;m lucky to have been brought up bilingually which made it easier for me to learn additional languages. my passion is all about 3d-design, parametric design, programming and evolutionary design on the software side and digital fabrication on the hardware side.</description>
+    </item>
+    
+    <item>
       <title>eSk8</title>
       <link>https://romazzino.github.io/projects/esk8/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/esk8/</guid>
       <description>topology optimization
-this is a frame design for an electric skateboard that has been topology optimized to reduce weight and improve stiffness while offering enough space internally to house the electrical components and battery. the plugin used was t0pos. inputs to the model are applied forces, bearings and raw build volume. the system is cfd analised and material removed where the stress is least. results vary depending on resolution of voxels.</description>
+This is a frame design concept for an electric skateboard that has been topology optimized to reduce weight and improve stiffness while offering enough space internally to house the electrical components and battery. the plugin used was t0pos. inputs to the model are: applied forces, bearings and raw build volume. the concept behind this is cfd analysis and material removal where the stress is least. results are noticabely different depending on voxel size/resolution of the system, offering different design approaches to different problems.</description>
     </item>
     
     <item>
       <title>mineral structure gridshell</title>
-      <link>https://romazzino.github.io/projects/studio2/</link>
+      <link>https://romazzino.github.io/projects/studio_two/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://romazzino.github.io/projects/studio2/</guid>
-      <description>a shell structure that derives its geometry from the mineral herbertsmithite, which has a hexagonaly ordered arrangement of atoms. This geometry, transferred to a supporting structure, offers advantages for the load-bearing capacity and thus the lightness of the structure.
-This system consists of two repetitive standardized parts, a triangle and an octahedron, which are connected with stiff nodes that are unique for each position in the shell.
-the parametric model for this project covers topics such as vector optimization, stress testing, sun analysis.</description>
+      <guid>https://romazzino.github.io/projects/studio_two/</guid>
+      <description>This concept study represents a shell structure derived from the hexagonal arrangement of atoms in the mineral herbertsmithite. This geometry, transposed as support structure, offers advantages in terms of load-bearing capacity and enables building lighter structures.
+This system consists of two repetitive standardized parts, a triangle and an octahedron. These parts can be mass produced and kept in stock and easily be transported to the building site. These two elements are connected with one another through cnc-milled connection nodes.</description>
     </item>
     
     <item>
@@ -34,9 +42,7 @@ the parametric model for this project covers topics such as vector optimization,
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/studio_one/</guid>
-      <description>The system rombo is a modular structure consisting of 3D-printed concrete shells that are easy to stack and transport. These elements are placed on site, reinforced and then cast with in-situ concrete to form a solid beam grid.
-the elements are fully configurable via grasshopper as well as the grid layout and shape of the quadripartite columns.
-catalog gh_def</description>
+      <description>The rombo system is a modular structure consisting of 3D-printed concrete shells that are easy to stack and transport. These elements are placed on site, steel reinforced and cast with in-situ concrete to form a solid beam grid. the advantages of this concept are quick building time, serialization and easy manufacturing of the elements in a factory as well as adaptability to size and shape of the project. The elements and the grid layout as well as the shape of the quadripartite columns are fully scripted.</description>
     </item>
     
     <item>
@@ -46,8 +52,7 @@ catalog gh_def</description>
       
       <guid>https://romazzino.github.io/projects/3d_print/</guid>
       <description>3dprint / digital fab
-digital fabrication has accompanied me for a few years now. I have been in charge of the lasercutting @ intitute of architecture and media. This has evolved in the development of prototypes, like the cylinder head for a racing motor bike as seen below. digital fabrication like cnc milling, lasercutting and 3d printing are one of my passions and hobbies.
-milling_vid</description>
+digital fabrication has accompanied my work for a few years now. I have been in charge of the digital fabrication lab @ intitute of architecture and media. The experience gathered there lead me to prototype manufacturing. One example senn below is the cylinder head for a high performance motorbike engine. I am using digital fabrication including cnc-milling, lasercutting and 3d printing for many of my projects. Generating tool-paths for milling and printing with different materials like abs, pc, pva and composite metal filaments are things I am capable of.</description>
     </item>
     
     <item>
@@ -57,8 +62,7 @@ milling_vid</description>
       
       <guid>https://romazzino.github.io/projects/pavillion/</guid>
       <description>lightweight adaptive structure
-As part of a team of three we developed an adaptive structure pavillion My contribution to the project was the 3d_geometry development, parametrization and simulation of the structure as well as the development of the movement. The project took part in the international IASS-competition in barcelona and has been awarded first prize.
-3dm_file brochure</description>
+As part of a team of three we developed an adaptive structure pavillion. The structure is built out of prestressed elements to ensure the stability of the object. These elements can further be compressed by a string and pulley system to allow it to change its shape. This principle could be used i.e. for ventilation in tunnel systems. My contribution to the project was the development and creation of 3d_geometry, parametrization and simulation of the structure as well as the simulation and development of the movement.</description>
     </item>
     
     <item>
@@ -67,17 +71,8 @@ As part of a team of three we developed an adaptive structure pavillion My contr
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://romazzino.github.io/projects/drone_mapping/</guid>
-      <description>I have been flying drones and helicopters for many years, racing FPV drones and drone mapping of terrain and buildings for 3d reconstruction. The mapping is based on photogrammetry and not lidar based. I am used to work on big point clouds &amp;gt;5gb. My racing drones are built by myself although for reconstruction purposes commercial drones are used.
-mapping_mesh1 mapping_mesh2</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://romazzino.github.io/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://romazzino.github.io/about/</guid>
-      <description>about me :)</description>
+      <description>One of my interersts is flying first-person-view drones and drone mapping of terrain and buildings for 3d reconstruction. The mapping is based on photogrammetry and not lidar based. I am used to work on big point clouds an meshes. My racing drones are built by myself although for mapping purposes commercial drones are used.
+mapping_mesh1 mapping_mesh2 flip_vid</description>
     </item>
     
   </channel>
